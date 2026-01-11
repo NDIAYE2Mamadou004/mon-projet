@@ -1,0 +1,26 @@
+[
+    {
+        "prenom": "Mamadou ",
+        "nom": "NDIAYE",
+        "adresse": "Dakar",
+        "tel": "78 123 45 67"
+    },
+    {
+        "prenom": "Abdoulaye",
+        "nom": "DIOP",
+        "adresse": "Thies",
+        "tel": "77 123 45 67"
+    },
+    {
+        "prenom": "Rama",
+        "nom": "Mbaye",
+        "adresse": "Ouakam",
+        "tel": "123 456 67"
+    },
+    {
+        "prenom": "Anta",
+        "nom": "AMAR",
+        "adresse": "Saint-Louis",
+        "tel": "12 456 67 43"
+    }
+]
